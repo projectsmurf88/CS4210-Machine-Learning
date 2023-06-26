@@ -6,6 +6,7 @@ Projects from CS4210
 Convert a data set to an ID3 decision tree by one hot encoding non-numeric values,
 then using sklearn to build the decision tree and plot the final output
 
+
 ## Assignment 2
 ### decision_tree_2.py
 Build decision trees from differently sized data sets in the same way as assignment 1,
@@ -19,6 +20,7 @@ calculate the error rate
 Use sklearn to build a naive bayes classifier, and only output classifications of the
 test data set if the confidence level is above the specified threshold
 
+
 ## Assignment 3
 ### bagging_random_forest.py
 Using sklearn, build a single decision tree classifier, an ensemble classifier of decision
@@ -29,6 +31,7 @@ of estimators. Then compare the accuracy of the 3 classifiers on the same test d
 Use sklearn to build a support vector machine classifier, testing different combinations
 of hyperparameter values to find which set of values produces the most accurate classifier
 
+
 ## Assignment 4
 ### deep_learning.py
 Use TensorFlow to build a deep neural network, testing different combinations for the
@@ -38,6 +41,7 @@ produces the most accurate neural network. Finally print information for the bes
 ### perceptron.py
 Similarly, use sklearn to build various single and multi-layered perceptrons, testing
 different values for the learning rate looking for the most accurate perceptron
+
 
 ## Assignment 5
 ### association_rule_mining.py
